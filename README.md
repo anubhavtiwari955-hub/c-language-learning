@@ -20,4 +20,3 @@ This repository contains my C programming learning journey.
 ## Goal
 
 Building strong programming fundamentals for Data Structures and Software Development.
-
